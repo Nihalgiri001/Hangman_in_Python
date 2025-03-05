@@ -1,0 +1,2 @@
+# Hangman_in_Python
+This is a hangman game simulated in Python, it is a course based project created for the completion of a Python course
